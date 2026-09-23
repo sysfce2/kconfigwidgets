@@ -521,6 +521,3 @@ msgstr "Стил на приложение"
 #, kde-format
 msgid "Default"
 msgstr "Стандартни"
-
-#~ msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
-#~ msgstr "Показване на главното меню"
